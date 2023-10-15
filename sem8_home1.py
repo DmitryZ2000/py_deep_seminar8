@@ -33,7 +33,7 @@ def my_func(my_dir_name: str, out_file_name_json, out_file_name_csv, out_file_pi
         json.dump(my_dict, f_json, indent =1, ensure_ascii=False)
     
     with (
-        open(out_file_name_csv, 'w+', encoding='utf-8') as f_csv
+        open(out_file_name_csv, 'w+', newline='', encoding='utf-8') as f_csv
         ):
         csv_write = csv.DictWriter(f_csv, fieldnames=['object', 'path', 'type', 'size'], \
                                     dialect='excel', quoting=csv.QUOTE_ALL)

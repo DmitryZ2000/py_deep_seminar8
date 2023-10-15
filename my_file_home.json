@@ -2,7 +2,7 @@
  ".": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8",
   "dir",
-  2689200
+  2716318
  ],
  ".gitignore": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8",
@@ -12,17 +12,17 @@
  "my_file_home.csv": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8",
   "file",
-  1571
+  7173
  ],
  "my_file_home.json": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8",
   "file",
-  1994
+  9270
  ],
  "my_pickle_file.bin": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8",
   "file",
-  1429
+  6710
  ],
  "new_file.json": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8",
@@ -47,7 +47,7 @@
  "sem8_home1.py": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8",
   "file",
-  2829
+  2841
  ],
  "sem8_task1.py": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8",
@@ -82,17 +82,17 @@
  ".\\.git": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git",
   "dir",
-  31917
+  37529
  ],
  "COMMIT_EDITMSG": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git",
   "file",
-  18
+  11
  ],
  "config": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git",
   "file",
-  130
+  310
  ],
  "description": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git",
@@ -102,12 +102,12 @@
  "HEAD": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\logs",
   "file",
-  321
+  848
  ],
  "index": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git",
   "file",
-  225
+  473
  ],
  ".\\.git\\hooks": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\hooks",
@@ -197,27 +197,47 @@
  ".\\.git\\logs": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\logs",
   "dir",
-  642
+  1807
  ],
  ".\\.git\\logs\\refs": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\logs\\refs",
   "dir",
-  321
+  959
  ],
  ".\\.git\\logs\\refs\\heads": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\logs\\refs\\heads",
   "dir",
-  321
+  661
  ],
- "master": [
-  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\refs\\heads",
+ "main": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\refs\\remotes\\origin",
   "file",
   41
+ ],
+ ".\\.git\\logs\\refs\\remotes": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\logs\\refs\\remotes",
+  "dir",
+  298
+ ],
+ ".\\.git\\logs\\refs\\remotes\\origin": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\logs\\refs\\remotes\\origin",
+  "dir",
+  298
  ],
  ".\\.git\\objects": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects",
   "dir",
-  4704
+  8691
+ ],
+ ".\\.git\\objects\\16": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\16",
+  "dir",
+  1195
+ ],
+ "c570eef42ffead6f76b0b7e25f6a34698d061d": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\16",
+  "file",
+  1195
  ],
  ".\\.git\\objects\\36": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\36",
@@ -228,6 +248,16 @@
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\36",
   "file",
   92
+ ],
+ ".\\.git\\objects\\46": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\46",
+  "dir",
+  163
+ ],
+ "415b9f7043758aa15771840228c2596142260d": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\46",
+  "file",
+  163
  ],
  ".\\.git\\objects\\4d": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\4d",
@@ -249,6 +279,26 @@
   "file",
   54
  ],
+ ".\\.git\\objects\\73": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\73",
+  "dir",
+  195
+ ],
+ "8eaefabbbad6f42493e04744278a14893ccaee": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\73",
+  "file",
+  195
+ ],
+ ".\\.git\\objects\\84": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\84",
+  "dir",
+  1168
+ ],
+ "0f614abebf0a36ad2c888a726e7140efbddcc8": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\84",
+  "file",
+  1168
+ ],
  ".\\.git\\objects\\8d": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\8d",
   "dir",
@@ -258,6 +308,16 @@
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\8d",
   "file",
   3146
+ ],
+ ".\\.git\\objects\\b5": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\b5",
+  "dir",
+  1266
+ ],
+ "91aa03409ab2674e5a3bf1fa42b4239a9f808a": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\b5",
+  "file",
+  1266
  ],
  ".\\.git\\objects\\b6": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\objects\\b6",
@@ -292,10 +352,20 @@
  ".\\.git\\refs": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\refs",
   "dir",
-  41
+  82
  ],
  ".\\.git\\refs\\heads": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\refs\\heads",
+  "dir",
+  41
+ ],
+ ".\\.git\\refs\\remotes": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\refs\\remotes",
+  "dir",
+  41
+ ],
+ ".\\.git\\refs\\remotes\\origin": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\refs\\remotes\\origin",
   "dir",
   41
  ],
@@ -303,6 +373,46 @@
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\.git\\refs\\tags",
   "dir",
   0
+ ],
+ ".\\.idea": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.idea",
+  "dir",
+  3335
+ ],
+ "misc.xml": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.idea",
+  "file",
+  189
+ ],
+ "modules.xml": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.idea",
+  "file",
+  275
+ ],
+ "Seminar8.iml": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.idea",
+  "file",
+  291
+ ],
+ "vcs.xml": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.idea",
+  "file",
+  172
+ ],
+ "workspace.xml": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.idea",
+  "file",
+  2234
+ ],
+ ".\\.idea\\inspectionProfiles": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.idea\\inspectionProfiles",
+  "dir",
+  174
+ ],
+ "profiles_settings.xml": [
+  "C:\\Work_dvz\\PythonDeep\\Seminar8\\.idea\\inspectionProfiles",
+  "file",
+  174
  ],
  ".\\new_dir": [
   "C:\\Work_dvz\\PythonDeep\\Seminar8\\new_dir",
